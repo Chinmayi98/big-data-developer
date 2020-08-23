@@ -14,3 +14,6 @@ Connect with me on
 -  [Linkedin](https://www.linkedin.com/in/bhavya-g/)
 
 - [Github](https://github.com/Bhavya-123)
+
+Here's a picture of me
+![](IMG_20200117_132354.jpg)
