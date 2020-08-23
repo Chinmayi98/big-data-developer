@@ -10,6 +10,7 @@ Well, am from Tirupati, a holy place in India which every Indian wish to visit a
 Since there were fluctuations in the roles in the company back then, I am assuming the knowledge I gain through masters in the field of Computing would act as a bridge to settle as a Full-stack developer in future.
 
 ## Links
-- Linkedin: [](https://www.linkedin.com/in/bhavya-g/)
+Connect with me on
+-  [Linkedin](https://www.linkedin.com/in/bhavya-g/)
 
-- Github: [](https://github.com/Bhavya-123)
+- [Github](https://github.com/Bhavya-123)
